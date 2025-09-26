@@ -1,0 +1,3 @@
+model,hf_id,task,split,decode,score
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,temp_1-5,0.7925716783216782
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,beam3,0.8145161227661225

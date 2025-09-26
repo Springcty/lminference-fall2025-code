@@ -1,0 +1,2 @@
+model,hf_id,task,split,decode,score
+Qwen3-4B,Qwen/Qwen3-4B,mmlu_med,dev_test,bad_case,0.58

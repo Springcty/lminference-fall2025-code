@@ -1,0 +1,8 @@
+model,hf_id,task,split,decode,score
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,default,0.7529478299478298
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,greedy,0.7441729381729381
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,temp_0-25,0.7482173104673104
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,temp_1-5,0.7629677822177819
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,beam3,0.7583136308136308
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,beam25,0.7593459873459875
+Qwen3-1.7B,Qwen/Qwen3-1.7B,infobench,dev_test,typical,0.7547636252636254

@@ -1,0 +1,8 @@
+model,hf_id,task,split,decode,score
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,default,0.005
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,greedy,0.013333333333333332
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,temp_0-25,0.006666666666666666
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,temp_1-5,0.025
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,beam3,0.01
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,beam25,0.015
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,graph_dev,dev_test,typical,0.018333333333333333

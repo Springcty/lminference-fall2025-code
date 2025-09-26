@@ -1,0 +1,8 @@
+model,hf_id,task,split,decode,score
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,default,0.05
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,greedy,0.07
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,temp_0-25,0.05
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,temp_1-5,0.055
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,beam3,0.045
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,beam25,0.06
+Qwen3-4B,Qwen/Qwen3-4B,graph_dev,dev_test,typical,0.055

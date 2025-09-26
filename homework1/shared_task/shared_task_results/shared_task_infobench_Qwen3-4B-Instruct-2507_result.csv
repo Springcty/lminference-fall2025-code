@@ -1,0 +1,8 @@
+model,hf_id,task,split,decode,score
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,default,0.8265115440115438
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,greedy,0.8370402930402929
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,temp_0-25,0.8282575757575756
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,temp_1-5,0.8333454878454877
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,beam3,0.8391391386391385
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,beam25,0.8262337662337661
+Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,infobench,dev_test,typical,0.8176244866244864
